@@ -1,6 +1,7 @@
 # spatiotemporal-conflictmap
 **Predicting the temporal and geographical occurrence of conflicts in Myanmar with two paradigms of spatiotemporal networks.**
 
+The file 'Spatiotemporal graph prediction.ipynb' contains instructions for usage and reproduction of results. For an overview of the project's background and results, see the slides below.
 
 Created by Mac O'Brien and Hset Hset Naing
 
